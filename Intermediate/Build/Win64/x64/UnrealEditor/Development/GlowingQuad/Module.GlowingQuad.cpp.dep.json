@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\glowingquad\\module.glowingquad.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\glowingquad\\definitions.glowingquad.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\unrealeditor\\inc\\glowingquad\\uht\\doomglow.gen.cpp",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\source\\glowingquad\\public\\doomglow.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\unrealeditor\\inc\\glowingquad\\uht\\doomglow.generated.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\unrealeditor\\inc\\glowingquad\\uht\\glowingquad.init.gen.cpp",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\unrealeditor\\inc\\glowingquad\\uht\\glowutils.gen.cpp",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\source\\glowingquad\\public\\glowutils.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\intermediate\\build\\win64\\unrealeditor\\inc\\glowingquad\\uht\\glowutils.generated.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\source\\glowingquad\\private\\doomglow.cpp",
+            "e:\\ue_all\\ue_5.2\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "e:\\ue_all\\ue_5.2\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\camera\\playercameramanager.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playercameramanager.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\playercontroller.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\playermutelist.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playermutelist.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\forcefeedbackparameters.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\forcefeedbackparameters.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\iinputinterface.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\public\\physics\\asyncphysicsdata.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\asyncphysicsdata.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionstreamingsource.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\worldpartitionstreamingsource.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playercontroller.generated.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\constructorhelpers.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\editor\\unrealed\\public\\leveleditorviewport.h",
+            "e:\\ue_all\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\ue_all\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\source\\glowingquad\\private\\glowingquad.cpp",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\source\\glowingquad\\public\\glowingquad.h",
+            "e:\\idm\\compressed\\glowingquad-main\\newversion\\hostproject\\plugins\\glowingquad\\source\\glowingquad\\private\\glowutils.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

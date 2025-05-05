@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GlowingQuad.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\IDM\Compressed\GlowingQuad-main\newversion\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\IDM\Compressed\GlowingQuad-main\newversion\HostProject\Plugins\GlowingQuad\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlowingQuad\Module.GlowingQuad.cpp.obj"
+"E:\IDM\Compressed\GlowingQuad-main\newversion\HostProject\Plugins\GlowingQuad\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlowingQuad\Default.rc2.res"
+/OUT:"E:\IDM\Compressed\GlowingQuad-main\newversion\HostProject\Plugins\GlowingQuad\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlowingQuad\UnrealEditor-GlowingQuad.lib"
