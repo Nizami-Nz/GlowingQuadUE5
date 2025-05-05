@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GlowingQuad.cpp.obj": [
+			"DoomGlow.gen.cpp.obj",
+			"GlowingQuad.init.gen.cpp.obj",
+			"GlowUtils.gen.cpp.obj",
+			"DoomGlow.cpp.obj",
+			"GlowingQuad.cpp.obj",
+			"GlowUtils.cpp.obj"
+		]
+	}
+}
